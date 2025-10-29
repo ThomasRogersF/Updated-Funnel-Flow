@@ -11,7 +11,7 @@ The goal is to modify the Spanish quiz application to start directly with the fi
 5. First question is displayed
 
 ## Proposed New Flow
-1. App.tsx → Index.tsx → QuizController (stage: "questions")
+1. App.tsx → Index.tsx → QuizController (stddddage: "questions")
 2. QuizController directly renders the first question
 3. User answers questions without seeing the introduction page
 
